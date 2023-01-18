@@ -3,6 +3,7 @@ This repository is for record my readings goals. Returning to the basics! Consum
 
 ## Reading now
 🇧🇷 [Lógica de Programação e Algoritmos com JavaScript](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-Javascript/dp/8575226568/ref=sr_1_3?qid=1673615650&refinements=p_27%3AEd%C3%A9cio+Fernando+Iepsen&s=books&sr=1-3). Novatec, 2018. Iepsen, Edécio Fernando. ISBN: 978-85-7522-656-8.
+
 ## Next Books
 🇧🇷 [Estruturas de dados e algoritmos com JavaScript](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932/ref=sr_1_3?keywords=estrutura+de+dados+e+algoritmos+em+javascript&qid=1673616663&s=books&sprefix=Estrutura+de+dados%2Cstripbooks%2C208&sr=1-3). Novatec, 2019. Groner, Loiane. ISBN: 978-85-7522-963-3.
 
